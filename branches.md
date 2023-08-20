@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/frechet"
-click B href "https://github.com/stdlib-js/random-base-frechet/tree/main"
-click C href "https://github.com/stdlib-js/random-base-frechet/tree/production"
-click D href "https://github.com/stdlib-js/random-base-frechet/tree/esm"
-click E href "https://github.com/stdlib-js/random-base-frechet/tree/deno"
-click F href "https://github.com/stdlib-js/random-base-frechet/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/frechet"
+%% click B href "https://github.com/stdlib-js/random-base-frechet/tree/main"
+%% click C href "https://github.com/stdlib-js/random-base-frechet/tree/production"
+%% click D href "https://github.com/stdlib-js/random-base-frechet/tree/esm"
+%% click E href "https://github.com/stdlib-js/random-base-frechet/tree/deno"
+%% click F href "https://github.com/stdlib-js/random-base-frechet/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/random/base/frechet
