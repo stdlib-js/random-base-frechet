@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import frechet from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@esm/index.mjs';
+import frechet from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@v0.1.0-esm/index.mjs';
 ```
 
 #### frechet( alpha, s, m )
@@ -410,7 +410,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import frechet from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@esm/index.mjs';
+import frechet from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-frechet@v0.1.0-esm/index.mjs';
 
 var seed;
 var rand;
