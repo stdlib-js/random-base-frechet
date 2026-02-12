@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`3a78025`](https://github.com/stdlib-js/stdlib/commit/3a7802537873ad795db7f3ecf9a78699f5488f16) - **bench:** refactor to use string interpolation in `random/base/frechet` [(#10231)](https://github.com/stdlib-js/stdlib/pull/10231) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2026-02-08)
